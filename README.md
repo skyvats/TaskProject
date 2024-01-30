@@ -16,6 +16,11 @@ Do to TaskProject/projects/backendproject. The project fulfils the requirement.
 
 ## Data products Frontend Project
 Do to TaskProject/projects/frontendproject. The project fulfils the requirement.
+
+### UI Behaviour
+Consists of 2 Button Task-1 and Task-2. Based on selection, the User will be directed to the selected task.
+![plot](./images/img1.png) 
+
 ### Requirements
 1. React 21.6.1
 2. npm 10.2.4
@@ -24,9 +29,13 @@ Do to TaskProject/projects/frontendproject. The project fulfils the requirement.
 
 ### Fulfil Requirement
 1. Update the Table by giving the Table Name, Unique Column and Column Name. Database Connectivity supported. Uses the same Backend Project.
-2. Updating the status of the URL every 2 minutes and stating if UP or DOWN. Database Connectivity supported. Uses the same Backend Project.
+   
+![plot](./images/img2.png)
+![plot](./images/img3.png)  
+  
+3. Updating the status of the URL every 2 minutes and stating if UP or DOWN. Database Connectivity supported. Uses the same Backend Project.
+![plot](./images/img4.png)
 
-### UI Behaviour
-1. Consists of 2 Button Task-1 and Task-2. Based on selection User will be directed to selected task.
+
 
 

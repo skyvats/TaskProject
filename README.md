@@ -14,6 +14,9 @@ Do to TaskProject/projects/backendproject. The project fulfils the requirement.
 2. Delete user by ID
 3. Update User By ID
 
+![plot](./images/img5.png)
+![plot](./images/img6.png)
+
 ## Data products Frontend Project
 Do to TaskProject/projects/frontendproject. The project fulfils the requirement.
 
